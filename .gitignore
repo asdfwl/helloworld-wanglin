@@ -1,0 +1,17 @@
+# 依赖目录
+node_modules/
+
+# Vercel 本地缓存
+.vercel/
+
+# 环境变量
+.env
+.env.local
+
+# 日志
+*.log
+npm-debug.log*
+
+# 系统文件
+.DS_Store
+Thumbs.db
